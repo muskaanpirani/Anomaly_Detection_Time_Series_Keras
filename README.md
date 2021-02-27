@@ -1,1 +1,2 @@
-# Anomaly_Detection_Time_Series_Keras
+# Anomaly Detection Time Series using Keras
+Coursera Guided Project
